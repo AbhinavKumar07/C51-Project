@@ -1,0 +1,26 @@
+.OrigamiDesignsRow1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.OrigamiDesignsRow2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.OrigamiDesignsRow1,.OrigamiDesignsRow2 ,.AboutUs{
+    background-color:#e4159f;
+}
+.AboutUs,.Followus{
+    background-color:#e4159f;
+}
+
+.Header{
+    background-color: #03f3d3;
+    margin-bottom: -16px;
+}
